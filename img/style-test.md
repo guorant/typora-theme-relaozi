@@ -10,7 +10,7 @@
 
 ###### h6
 
-![lun-origin](lun-origin.jpg)
+![lz5000-origin](lz5000-origin.jpg)
 
 * [ ] lfkdsk
 * [x] lfkdsk

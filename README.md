@@ -1,6 +1,6 @@
-# techo.css
+# relaozi.css
 
 For Chinese writing.
 
-![lun](img/lun.png)
+![lz5000](img/lz5000.png)
 
