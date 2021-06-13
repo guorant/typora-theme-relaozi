@@ -10,7 +10,7 @@
 
 ###### h6
 
-![lz5000-origin](lz5000-origin.jpg)
+![lz5000-origin](lz5000-origin.png)
 
 * [ ] lfkdsk
 * [x] lfkdsk
