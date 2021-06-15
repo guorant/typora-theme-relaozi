@@ -12,3 +12,4 @@ Relaozi is a typro theme base on [Techo](https://github.com/lfkdsk/techo.css) an
 
 ![lz5000](img/lz5000.png)
 
+[老子五千言](www.lz5000.com)
