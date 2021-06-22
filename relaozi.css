@@ -45,6 +45,7 @@ content {
     min-height: calc(100vh - 6em);
     -webkit-font-smoothing: antialiased;
     font-size: 16px;
+    background: #f9f5ed;
 }
 
 .typora-node #write {
